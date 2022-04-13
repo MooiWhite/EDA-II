@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1528276609 source:c:\users\mariana\documents\laberinto\laberinto\main.c
+	<stdio.h>
+	"laberinto.h"
+
+1528276880 .h"
+
+1528276630 c:\users\mariana\documents\laberinto\laberinto\laberinto.h
+	<stdlib.h>
+	<stdio.h>
+	<assert.h>
+	<stdbool.h>
+
+1528276703 >
+
+1528276880 source:c:\users\mariana\documents\laberinto\laberinto.c
+	<stdio.h>
+	"laberinto.h"
+
+1528276703 c:\users\mariana\documents\laberinto\laberinto.h
+	<stdlib.h>
+	<stdio.h>
+	<assert.h>
+	<stdbool.h>
+
+1528255010 source:/home/mariana/Documentos/Laberinto/main.c
+	<stdio.h>
+	"laberinto.h"
+
+1528255032 /home/mariana/Documentos/Laberinto/laberinto.h
+	<stdlib.h>
+	<stdio.h>
+	<assert.h>
+	<stdbool.h>
+
+1528254890 source:/home/mariana/Documentos/Laberinto/laberinto.c
+	<stdio.h>
+	"laberinto.h"
+
